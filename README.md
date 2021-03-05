@@ -6,4 +6,4 @@ To-Do List Web App.
 </br>
 Tech Stack: HTML, CSS, Bootstrap, Javascript, Node.js, Express, ejs, Heroku.
 </br>
-<a href=""> To-Do Web App </a>
+<a href=""> To-Do List</a>
